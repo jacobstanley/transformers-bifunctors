@@ -1,5 +1,3 @@
-# Revision history for transformers-bifunctors
-
-## 0.1.0.0  -- YYYY-mm-dd
+## Version 0.1 (2017-07-16)
 
 * First version. Released on an unsuspecting world.
